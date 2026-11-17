@@ -39,9 +39,10 @@ Trois modèles de classification ont été entraînés et comparés :
 - XGBoost
 
 ## 5. Résultats des modèles
-
 Régression logistique  - Précision à 84,92 %
+
 Random Forest          - Précision à 81,56 %
+
 XGBoost                - Précision à 81,01 %
 
 La régression logistique obtient le meilleur résultat sur les données de test, avec une précision de 84,92 %.
