@@ -33,6 +33,7 @@ Ce projet a pour objectif d'analyser les données des passagers du Titanic afin 
 - indique si le passager voyage seul ou pas
 
 #### D/ Modélisation
+Classification binaire.
 Trois modèles de classification ont été entraînés et comparés :
 - Régression logistique
 - Random Forest
